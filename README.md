@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magnolira&label=Profile%20views&color=0e75b6&style=flat" alt="magnolira" /> </p>
 
-- 🔭 I’m currently working on **omdena**
+- 🔭 I’m currently working on **omdena**, Yuan soluções
 
 - 🌱 I’m currently learning **natural language process, machine learning**
 
