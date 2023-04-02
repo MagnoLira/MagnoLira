@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **omdena**, **Yuan soluções**
 
-- 🌱 I’m currently learning **natural language process, machine learning**
+- 🌱 I’m currently learning **natural language process, machine learning, web scraping, power BI**
 
 - 💬 Ask me about **data science, stock market, languages**
 
