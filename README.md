@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Magno Lira</h1>
 <h3 align="center">A data scientist from Brazil</h3>
 
-<img align="right" alt="data science" width="400" src="http://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif"> 
+<img align="right" alt="data science" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffizzymag.com%2Farticles%2Fcosts-of-buildding-a-web-scraping-system&psig=AOvVaw0nkXyeewzIssGbHgbsPN5E&ust=1680533465330000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjMo5S5i_4CFQAAAAAdAAAAABAE"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magnolira&label=Profile%20views&color=0e75b6&style=flat" alt="magnolira" /> </p>
 
