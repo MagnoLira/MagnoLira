@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **data science, stock market, languages**
 
-- 📫 How to reach me **magnovital.lira@gmail.com**
+- 📫 How to reach me **silvalira968@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
