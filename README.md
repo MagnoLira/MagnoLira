@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Magno Lira</h1>
-<h3 align="center">A data scientist from Brazil</h3>
+<h3 align="center">A data analyst from Brazil</h3>
 
 <img align="right" alt="data science" width="400" src="https://www.iwebscraping.com/images/Python-Web-Scraping1.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magnolira&label=Profile%20views&color=0e75b6&style=flat" alt="magnolira" /> </p>
 
-- 🔭 I’m currently working on **omdena**, **Yuan soluções**
+- 🔭 I’m currently working on  **Equatorial**
 
-- 🌱 I’m currently learning **natural language process, machine learning, web scraping, power BI**
+- 🌱 I’m currently learning **pl/slq, image classification, airflwow**
 
 - 💬 Ask me about **data science, stock market, languages**
 
