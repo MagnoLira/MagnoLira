@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magnolira&label=Profile%20views&color=0e75b6&style=flat" alt="magnolira" /> </p>
 
-- 🔭 I’m currently working on  **Equatorial**
+- 🔭 I’m currently working on  **Cora**
 
-- 🌱 I’m currently learning **pl/slq, image classification, airflwow**
+- 🌱 I’m currently learning **Machine learning, statistics**
 
 - 💬 Ask me about **data science, stock market, languages**
 
