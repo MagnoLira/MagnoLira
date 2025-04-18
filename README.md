@@ -5,4 +5,3 @@ I have experience in predictive and inferential analysis, and I work with Python
 Additionally, I've contributed to various teams and projects in sectors such as call centers, energy, retail, and currently, the banking industry.
 
 I am currently deepening my knowledge in Machine Learning.
-![image](https://github.com/user-attachments/assets/1ddaa0bb-4fe3-4343-905d-aef5cb63ea48)
