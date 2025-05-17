@@ -4,4 +4,4 @@ I have experience in predictive and inferential analysis, and I work with Python
 
 Additionally, I've contributed to various teams and projects in sectors such as call centers, energy, retail, and currently, the banking industry in the anti fraud sector.
 
-I am currently deepening my knowledge in Machine Learning, java development, docker, and kubernetes. 
+I am currently deepening my knowledge in Machine Learning, kotlin development, docker, and kubernetes. 
